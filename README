@@ -1,0 +1,5 @@
+Bwl.RunMonitor
+Igor Koshelev (igor@lifemotion.ru) and others
+
+Simple Application Run Monitor.
+Keep selected application running and restarts it when it hangs, closed etc.
